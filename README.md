@@ -1,12 +1,9 @@
 # Merlin
 
-Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
-
-## Download
-
-[https://github.com/halibegic/merlin/archive/master.zip](https://github.com/halibegic/merlin/archive/master.zip)
+Free template derived from [Merlin](https://github.com/halibegic/merlin) but with a [Gulp](http://gulpjs.com/) build.
 
 ## Credits
+ * [Merlin](https://github.com/halibegic/merlin)
  * [jQuery](http://jquery.com/)
  * [Bootstrap](http://getbootstrap.com/)
  * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -23,7 +20,7 @@ Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
 ## Copyright and License
 
-Copyright 2014 [Hasan Alibegić](http://www.twitter.com/halibegic)
+Copyright 2016 [Present Technologies](https://www.present-technologies.com)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
